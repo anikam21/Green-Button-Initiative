@@ -33,13 +33,7 @@ A Flask-based Web Application with Cloud Integration
 These interfaces allow users to upload Green Button data, view historical energy usage, and run predictive models to optimize energy consumption.
 
 Windows Desktop GUI Application
-The Windows GUI application provides an interactive, user-friendly experience for accessing Green Button data in real-time.
-
-- Built with Python & PyQt
-- Allows users to log in & upload Green Button CSV files
-- Displays electricity & water usage data in an easy-to-read format
-- Runs ML models to forecast energy & water consumption
-- Generates graphs to visualize past trends and future predictions
+The Windows Desktop GUI Application provides an interactive, user-friendly experience for accessing Green Button data in real-time. It is built using Python and PyQt, allowing users to log in and upload Green Button CSV files effortlessly. The application displays electricity and water usage data in an easy-to-read format and integrates machine learning models to forecast energy and water consumption. Additionally, it generates graphs to visualize past trends and future predictions, helping users make data-driven decisions about their utility usage.
 
 Features of the GUI
 - Login & Signup Pages → Secure authentication system for users.
