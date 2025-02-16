@@ -9,12 +9,13 @@ The goal of this project is to bridge the gap between energy data and predictive
 # Project Features
 This project integrates historical energy and water consumption data with real-time weather forecasts to provide actionable insights for optimizing electricity usage, water consumption, and cost estimation. By leveraging machine learning models, users can better understand how environmental factors impact their utility usage and make informed decisions to improve efficiency.
 
-Key features of this project include:
+ Key features include:
 
-Water Usage Prediction → Uses historical Green Button water consumption data and weather forecasts to predict daily water usage.Electricity Usage Forecasting → Analyzes past energy consumption trends and predicts future electricity usage based on temperature and precipitation data.
-Electricity Cost Estimation → Utilizes Lasso Regression to estimate future electricity costs based on past trends and peak-hour pricing.
-Machine Learning Models → Implements Random Forest, Decision Trees, Lasso Regression, and Linear Regression for data-driven forecasting.
-Green Button Data Compatibility → Supports both XML and CSV formats, making it adaptable for different data sources.
+- Water Usage Prediction → Uses historical Green Button water consumption data and weather forecasts to predict daily water usage.
+- Electricity Usage Forecasting → Analyzes past energy consumption trends and predicts future electricity usage based on temperature and precipitation data.
+- Electricity Cost Estimation → Utilizes Lasso Regression to estimate future electricity costs based on past trends and peak-hour pricing.
+- Machine Learning Models → Implements Random Forest, Decision Trees, Lasso Regression, and Linear Regression for data-driven forecasting.
+- Green Button Data Compatibility → Supports both XML and CSV formats, making it adaptable for different data sources.
 
 # Project Summary
 This project integrates Green Button energy usage data with real-time weather forecasting to provide actionable insights for optimizing energy consumption. By analyzing historical energy usage patterns and combining them with weather predictions, the system can:
@@ -23,7 +24,7 @@ This project integrates Green Button energy usage data with real-time weather fo
 - Suggest ways to reduce electricity usage based on weather conditions.
 - Improve energy efficiency by leveraging weather insights.
 
-Git Repo for GUI
+# How to run
 Guide
 1. Clone the project to local: clone "https..."
 2. Create your own branch
