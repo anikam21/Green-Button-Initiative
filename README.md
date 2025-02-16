@@ -35,30 +35,30 @@ These interfaces allow users to upload Green Button data, view historical energy
 Windows Desktop GUI Application
 The Windows GUI application provides an interactive, user-friendly experience for accessing Green Button data in real-time.
 
-Built with Python & PyQt
-Allows users to log in & upload Green Button CSV files
-Displays electricity & water usage data in an easy-to-read format
-Runs ML models to forecast energy & water consumption
-Generates graphs to visualize past trends and future predictions
+- Built with Python & PyQt
+- Allows users to log in & upload Green Button CSV files
+- Displays electricity & water usage data in an easy-to-read format
+- Runs ML models to forecast energy & water consumption
+- Generates graphs to visualize past trends and future predictions
 
 Features of the GUI
-Login & Signup Pages → Secure authentication system for users.
-Data Upload & Processing Page → Users can select & upload Green Button files for processing.
-Visualization Dashboard → Displays graphs & trends for energy and water consumption.
-Prediction Results Page → Runs ML models and shows future electricity and water usage.
+- Login & Signup Pages → Secure authentication system for users.
+- Data Upload & Processing Page → Users can select & upload Green Button files for processing.
+- Visualization Dashboard → Displays graphs & trends for energy and water consumption.
+- Prediction Results Page → Runs ML models and shows future electricity and water usage.
 
 Flask Web Application with Cloud Instance
 In addition to the Windows GUI, the project includes a Flask-based web application that provides a cloud-based solution for Green Button data processing.
 
-Users can access the platform via a web browser
-Data is stored & processed in the cloud
-Real-time energy consumption predictions
-Visual dashboards for analysis
+- Users can access the platform via a web browser
+- Data is stored & processed in the cloud
+- Real-time energy consumption predictions
+- Visual dashboards for analysis
 
 Cloud Integration
-Hosted on AWS → The web app can be deployed on a cloud platform.
-Stores user data in a cloud database → Enables historical tracking & forecasting.
-Allows remote access → Users can upload their Green Button files and get insights from anywhere.
+- Hosted on AWS → The web app can be deployed on a cloud platform.
+- Stores user data in a cloud database → Enables historical tracking & forecasting.
+- Allows remote access → Users can upload their Green Button files and get insights from anywhere.
 
 # How to run
 Guide
