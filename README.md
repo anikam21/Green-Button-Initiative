@@ -1,6 +1,11 @@
-# Green Button Initiative - Weather-Based Energy Optimization
+# Green Button Initiative - Weather-Based Utility Optimization
 # Overview
-The Green Button Initiative is an industry-led effort launched in response to a 2012 White House call-to-action. It enables electricity, natural gas, and water customers to easily and securely access their energy usage data in both consumer-friendly and computer-readable formats. This initiative empowers consumers to make informed decisions about their energy consumption, promoting efficiency and cost savings.
+The Green Button Initiative is a standardized effort that allows consumers to securely access their energy and water usage data from utility providers. This initiative was launched to promote data-driven energy efficiency and help individuals and businesses make informed decisions about their electricity and water consumption.
+
+This project was developed as part of my capstone project, where my group and I integrated machine learning models to predict electricity usage, electricity costs, and water consumption based on historical trends and real-time weather data. By analyzing past utility usage alongside temperature and precipitation forecasts, this system provides valuable insights that can help users optimize their energy consumption, reduce costs, and improve efficiency.
+
+The goal of this project is to bridge the gap between energy data and predictive analytics, making it easier for consumers to make data-driven decisions about their utility usage. This system is designed to work with Green Button data in both XML and CSV formats, ensuring compatibility with different utility data sources.
+
 
 # Project Summary
 This project integrates Green Button energy usage data with real-time weather forecasting to provide actionable insights for optimizing energy consumption. By analyzing historical energy usage patterns and combining them with weather predictions, the system can:
